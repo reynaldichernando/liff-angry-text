@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/jquery-3.4.1.js"></script>
+    <title>Angry Text Generator</title>
+</head>
+<body>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div id="main" class="col-md-4">
+                <h1 id="title">Angry Text Generator</h1>
+                <input type="text" name="" id="txt_input" class="form-control" placeholder="Input Text Here">
+                <div id="txt_output" class="text-center"></div>
+                <button id="btn_send" class="btn btn-danger">SEND IT!</button>
+                <p id="isInClientMessage"></p>
+            </div>
+        </div>
+    </div>
+
+    <img src="/img/anger.png" alt="" id="anger">
+
+
+    <script src="https://static.line-scdn.net/liff/edge/2.1/sdk.js"></script>
+    <script src="liff.js"></script>
+    <script src="site.js"></script>
+</body>
+</html>
