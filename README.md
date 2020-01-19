@@ -4,4 +4,4 @@ Submission for Dicoding Belajar Membangun LINE Front-end Framework (LIFF) Assign
 
 Convert your text to ANGRY TEXT and send it to your friend.
 
-Demo:  [a link](line://app/1653779174-XJMRMl7m)
+Demo:  [line://app/1653779174-XJMRMl7m](line://app/1653779174-XJMRMl7m)
